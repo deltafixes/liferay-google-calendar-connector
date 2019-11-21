@@ -54,7 +54,9 @@ In any of the above option, user can seamlessly able to see and manage events. A
 ![view_action_button](https://user-images.githubusercontent.com/24852574/69322040-28df2200-0c6a-11ea-8c08-e1007c3e2401.png) 
 
 By Clicking on "Setting" button, user can select Sync option and Sync interval for individual Calendar. (please refer next step)
+
 By clicking on "Stop Synchronize", it will stop Sync process between two calendars (Liferay and Google).
+
 To Synchronize calendar on demand click on "Synchronize Now" button. This button is only available when user has selected One-way [Liferay to Google] or Two-way [Both] Sync option.
 
 10. Upon clicking on "Setting" below screen will be shown.
