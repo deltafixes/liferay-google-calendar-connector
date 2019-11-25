@@ -1,4 +1,4 @@
-# Liferay Google Calendar Connector
+# Liferay Connector for Google Calendar 
 
 With the help of this plugin user can sync their Liferay's calendar with google calendar. This plugin is shipped with multiple synchronization options as below. 
 
