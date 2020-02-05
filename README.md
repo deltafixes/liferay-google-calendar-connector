@@ -12,6 +12,8 @@ In any of the above option, user can seamlessly able to see and manage events. A
 1. Liferay 7.0 DXP
 2. Liferay 7.0 CE-GA5 +
 3. Liferay 7.1 CE-GA1 +
+4. Liferay 7.2 CE-GA1 +
+5. Liferay 7.2 DXP
 
 ## Features
 1. Each user can synchronize their personal Liferay's calendar with google calendar
